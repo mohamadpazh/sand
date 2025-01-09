@@ -43,10 +43,6 @@
       <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/141281966/ws?session=eyJ2IjoiVjMiLCJ1IjoxNDEyODE5NjYsInMiOjE1NTQwMzkzNDksImMiOjIwMTIyNjY4OSwidCI6MTczNTcyODA0OH0=--56c143fea1f36237b635a112b5910a4440ae999bb3000df9044109d45efc38a3" data-refresh-url="/_alive" data-session-id="33ba852291a0db58a59437be5b09e2fcd8842db0fffedcc516be72e5d955e85e">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-abaca4fda701.js">
 
-
-      <meta name="hostname" content="github.com">
-
-
       <meta name="keyboard-shortcuts-preference" content="all">
       <meta name="hovercards-preference" content="true">
       <meta name="announcement-preference-hovercard" content="true">
