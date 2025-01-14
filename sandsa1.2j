@@ -43,8 +43,6 @@
       <meta name="hovercards-preference" content="true">
       <meta name="announcement-preference-hovercard" content="true">
 
-        <meta name="expected-hostname" content="github.com">
-
 
   <meta http-equiv="x-pjax-version" content="16d23d7fff6474260e1b3aaadb4a2eab05a97a294762587a3091d187f0b34242" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="ace39c3b6632770952207593607e6e0be0db363435a8b877b1f96abe6430f345" data-turbo-track="reload">
