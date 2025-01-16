@@ -57,9 +57,6 @@
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
       <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
-
-    <meta data-hydrostats="publish">
-
   <meta name="go-import" content="github.com/mohamadpazh/sand git https://github.com/mohamadpazh/sand.git">
 
   <meta name="octolytics-dimension-user_id" content="141281966" /><meta name="octolytics-dimension-user_login" content="mohamadpazh" /><meta name="octolytics-dimension-repository_id" content="910760662" /><meta name="octolytics-dimension-repository_nwo" content="mohamadpazh/sand" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="910760662" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mohamadpazh/sand" />
