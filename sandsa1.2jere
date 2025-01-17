@@ -46,7 +46,7 @@
 
       <meta name="keyboard-shortcuts-preference" content="all">
       <meta name="hovercards-preference" content="true">
-      <meta name="announcement-preference-hovercard" content="true">
+      <mta name="announcement-preference-hovercard" content="true">
 
 
   <meta http-equiv="x-pjax-version" content="16d23d7fff6474260e1b3aaadb4a2eab05a97a294762587a3091d187f0b34242" data-turbo-track="reload">
@@ -61,11 +61,6 @@
 
   <meta name="octolytics-dimension-user_id" content="141281966" /><meta name="octolytics-dimension-user_login" content="mohamadpazh" /><meta name="octolytics-dimension-repository_id" content="910760662" /><meta name="octolytics-dimension-repository_nwo" content="mohamadpazh/sand" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="910760662" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mohamadpazh/sand" />
 
-
-
-  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
-
-  
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
