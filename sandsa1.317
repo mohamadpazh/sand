@@ -15,6 +15,7 @@
                   :root{
                   
                     --font-DINCond: '__DINCond_93dbb8', '__DINCond_Fallback_93dbb8';
+
                     --font-montserrat: '__Montserrat_4bc053', '__Montserrat_Fallback_4bc053';
                   }
                 </style></head><body data-theme="dark" class=""><div id="__next"><div data-rk=""><style>[data-rk]{
